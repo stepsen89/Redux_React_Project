@@ -25,3 +25,9 @@ search-bar input {
 .list-group-item:hover {
   background-color: #eee;
 }
+
+.container-video {
+  width: 600px;
+  height: 600px;
+  padding: 10px;
+}
