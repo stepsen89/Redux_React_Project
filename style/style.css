@@ -3,7 +3,7 @@
   text-align: center;
 }
 
-search-bar input {
+.search-bar input {
   width: 75%;
 }
 
@@ -11,7 +11,7 @@ search-bar input {
   max-width: 64px;
 }
 
-.video-detail .detail {
+.video-detail .details {
   margin-top: 10px;
   padding: 10px;
   border: 1px solid #ddd;
@@ -24,10 +24,4 @@ search-bar input {
 
 .list-group-item:hover {
   background-color: #eee;
-}
-
-.container-video {
-  width: 600px;
-  height: 600px;
-  padding: 10px;
 }
